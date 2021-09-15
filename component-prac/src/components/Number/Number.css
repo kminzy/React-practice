@@ -1,0 +1,27 @@
+.first, .second {
+    font-weight: bold;
+}
+
+.firstWrapper {
+    border-radius: 5px;
+    padding: 5px;
+    margin: 3px;
+}
+
+.firstResult, .firstWrapper {
+    display: inline-block;
+}
+
+.firstResult > span {
+    font-weight: bold;
+    color: #ff8080;
+}
+
+.secondResult {
+    display: inline-block;
+}
+
+.secondResult > span {
+    font-weight: bold;
+    color: #8e80ff;
+}

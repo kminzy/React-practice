@@ -1,0 +1,27 @@
+.App{
+  width:100%;
+}
+
+.components{
+  margin-top:70px;
+  padding: 10px;
+}
+
+.leftSection {
+  width:50%;
+  float:left;
+}
+
+.rightSection {
+  width:50%;
+  float: right;
+}
+
+.colorPos, .numberPos, .sizePos, .namePos{
+  width: 80%;
+  margin: 20px auto;
+  border: 1px solid #e5eaff;
+  padding: 0 20px 20px 20px;
+  background:#e5eaff;
+  border-radius: 10px;
+}
