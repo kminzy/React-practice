@@ -2,7 +2,7 @@ import './App.css';
 import Main from "./pages/Main/Main";
 import Background from "./pages/Background";
 import Practice from './pages/Practice/Practice';
-import Character from './pages/Character';
+import Character from './pages/Character/Character';
 import Navigation from './components/Navigation/Navigation';
 import {BrowserRouter as Router, Route} from "react-router-dom";
 
